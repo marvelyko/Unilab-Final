@@ -367,11 +367,13 @@ html body footer {
 .main-footer img,
 .main-footer p,
 .main-footer ul,
+.main-footer a,
 .main-footer div {
     margin: auto 0;
     font-size: 0.875rem;
 }
-.main-footer img {
+.main-footer img,
+.main-footer a, {
     object-fit: contain;
 }
 .ppp {
